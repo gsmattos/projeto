@@ -27,10 +27,9 @@ Também conhecido como gráfico de pizza, um circúlo é dividido conforme as pr
 
 ## Diagrama de Casos de Uso
 
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
-<div align="center">
-    <img src="img/UseCaseDiagram.png">
-</div>
+<center>
+    <img src="img/casodeuso.png" width="60%">
+</center>
 
 Detalhamento dos casos de uso:
 

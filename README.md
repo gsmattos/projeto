@@ -2,13 +2,13 @@
      width="30%"
      style="padding: 10px">
 
-# Hangman
+# Programa de Desenhar Gráficos de Estatística
 
-### Implementação do jogo da Forca
+### Implementação do programa
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orientada a objetos. 
 > 
-> Aluno: Nome do aluno  
+> Aluno: Gustavo dos Santos Mattos 
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>

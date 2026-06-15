@@ -5,7 +5,7 @@
 
 ## Descrição Geral do domínio do problema
 
-Este programa permite que o usuário crie 3 tipos de gráficos. As imagens a baixo são ilustrativas e não são iguais a deste programa.
+Este programa permite que o usuário crie 3 tipos de gráficos. As imagens abaixo são ilustrativas e não são iguais a deste programa.
 
 ## Gráfico de Linha
 <center>

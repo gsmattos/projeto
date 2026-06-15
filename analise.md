@@ -5,7 +5,12 @@
 
 ## Descrição Geral do domínio do problema
 
-O Jogo da Forca é um passatempo de adivinhação em que um jogador tenta descobrir uma palavra oculta sugerindo letras individualmente. A cada acerto, as lacunas correspondentes são preenchidas; a cada erro, desenha-se uma parte do corpo de um boneco palito em uma forca. O objetivo é completar a palavra antes que o boneco, geralmente composto por seis partes (cabeça, tronco e membros), seja totalmente desenhado. Caso o jogador descubra o termo a tempo, ele vence; caso contrário, ocorre o "enforcamento" simbólico e a palavra é revelada. É um jogo que exige vocabulário e lógica, sendo comum começar pelas vogais para identificar a estrutura da palavra.
+Este programa permite que o usuário crie 3 tipos de gráficos.
+Gráfico de Linha
+<center>
+    <img src="img/graficodelinhas.jpg" width="60%">
+</center>
+Este gráfico é feito criando pontos em cordenadas verticais e horizontais e então uma linha liga estes pontos
 
 ## Diagrama de Casos de Uso
 

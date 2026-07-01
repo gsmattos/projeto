@@ -1,8 +1,0 @@
-@startuml UseCaseDiagram
-left to right direction
-actor "Player" as Player
-rectangle "Hangman" {
-    usecase "UC1: Jogar" as UC1
-    Player -- UC1
-}
-@enduml

@@ -33,7 +33,7 @@ Também conhecido como gráfico de pizza, um circúlo é dividido conforme as pr
 
 Detalhamento dos casos de uso:
 
-- [UC1: Jogar](uc01.md)
+- [UC1:](uc01.md)
 
  
 ## Diagrama de Domínio do problema

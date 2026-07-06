@@ -1,5 +1,5 @@
 # Instruções para compilação e execução do sistema
 
-Baixe e extraia o arquivo ZIP
+Baixe todos os arquivos
 
 Abra o cmake "CMakeLists.txt", preferenciamente com QT 6
